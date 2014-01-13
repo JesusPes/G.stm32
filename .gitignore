@@ -1,0 +1,18 @@
+# ignore example
+obj
+prj
+*.bak
+*.Administrator
+*.dep
+*.plg
+*.swp
+*.uvopt
+*.uvproj
+*.wj
+*.Uv2
+*.Opt
+*.pdf
+*.obj
+*.lst
+*.M51
+*.lnp
