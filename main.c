@@ -17,6 +17,8 @@
 
 	tool:ULINK2
 
+	define STM32F10X_LD
+	add stm32f10xr.lib 	
 */
 
 #include <stdio.h>
